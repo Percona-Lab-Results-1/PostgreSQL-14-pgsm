@@ -1,0 +1,20 @@
+Query 1:
+
+Total Executions: 100
+Total Duration: 400 ms
+Average Duration: 4 ms
+Query 2:
+
+Total Executions: 50
+Total Duration: 1200 ms
+Average Duration: 24 ms
+Query 3:
+
+Total Executions: 200
+Total Duration: 1600 ms
+Average Duration: 8 ms
+Query 4:
+
+Total Executions: 50
+Total Duration: 1000 ms
+Average Duration: 20 ms
